@@ -1,3 +1,3 @@
 # cams-blog
 
-![image]{/Users/cameronwallen/cams-blog/images/Screenshot.png}
+![image]{images/Screenshot.png}
