@@ -2,4 +2,6 @@
 
 Hello World
 
-    ![image]{images/Screenshot.png}
+    ![image]{images\Screenshot.png}
+
+    images\Screenshot.png
